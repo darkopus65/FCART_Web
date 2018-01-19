@@ -1,0 +1,22 @@
+{
+  "name": "viz-int",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "immutability-helper": "^2.6.4",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dnd": "^2.5.4",
+    "react-dnd-html5-backend": "^2.5.4",
+    "react-dnd-touch-backend": "^0.3.20",
+    "react-dom": "^16.2.0",
+    "react-json-parser": "^0.2.1",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

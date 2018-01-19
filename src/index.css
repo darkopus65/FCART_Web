@@ -1,0 +1,54 @@
+body {
+
+}
+
+
+.box {
+    border: 2px solid #aaa719;
+    background-color: #d4d37f;
+    width: 20px;
+    height: 40px;
+}
+
+.text {
+    text-align: center;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    width: 20px;
+    height: 20px;
+}
+
+.t {
+    position: absolute;
+    height: 20px;
+    right: 0;
+    left: 0;
+    margin: auto;
+    font-size: 10px;
+    border: 1px solid #C1C1C1;
+}
+
+.fieldWrapper {
+    border: 1px solid #C1C1C1; /* размер и цвет границы блока */
+    overflow-x: scroll; /* прокрутка по горизонтали */
+    overflow-y: scroll; /* прокрутка по вертикали */
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    width: 400px;
+    height: 400px;
+}
+
+.Graph {
+    position: absolute;
+    top: 20px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
